@@ -13,3 +13,4 @@ git merge <dal_adı> → Belirtilen dalı aktif dala birleştirir.
 git branch -d <dal_adı> → Belirtilen dalı siler.
 git merge <dal_adı> →	İki dalı birleştirir.
 
+#Acunmedya Akademi'de Aralık ayında github hakkında aldığım dersler kapsamında bir Readme dosyası yaptım. Bu bilgileri sizlerle paylaşmaktan mutluluk duyarım!
